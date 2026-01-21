@@ -13,14 +13,6 @@ Sağ üstteki Code butonuna tıklayın ve Download ZIP seçeneğini seçin.
 
 Masaüstünde yüzen Steam ikonunu gördüğünüzde araç kullanıma hazırdır.
 
-Seçenek 2: PowerShell ile Hızlı Kurulum (Alternatif)
-Dosya indirmekle uğraşmadan terminal üzerinden hızlıca kurmak isterseniz:
-
-PowerShell'i yönetici olarak açın ve şu komutu girin:
-
-PowerShell
-```powershell irm steam.run | iex```
-
 📂 Manifest Dosyaları ve Kullanımı
 Oyunları kütüphaneye eklemek için gerekli .manifest veya .lua dosyalarına şu adreslerden ulaşabilirsiniz:
 
