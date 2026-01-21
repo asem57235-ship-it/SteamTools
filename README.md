@@ -19,7 +19,7 @@ Dosya indirmekle uğraşmadan terminal üzerinden hızlıca kurmak isterseniz:
 PowerShell'i yönetici olarak açın ve şu komutu girin:
 
 PowerShell
-` ` `powershell irm steam.run | iex ` ` `
+```powershell irm steam.run | iex```
 
 📂 Manifest Dosyaları ve Kullanımı
 Oyunları kütüphaneye eklemek için gerekli .manifest veya .lua dosyalarına şu adreslerden ulaşabilirsiniz:
